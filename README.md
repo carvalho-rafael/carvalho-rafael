@@ -3,4 +3,4 @@ I'm Rafael,
 I'm a programing student, lately, I've been doing a deep dive into Javascript and I'm loving it.
 - 🎓 Waiting the pandemic to graduate in Systems Analysis and Development from the Federal Institute of Bahia 
 - 📚 Studing Technologies: Javascript (Typescript,Nodejs, React, React Native).
-- 🔎 Longing for an opportunity as a dev.
+- 🔎 Looking for an opportunity as a developer.
